@@ -6,7 +6,7 @@
   "repository": "https://github.com/max-house-webdev/react-typescript-SSR.git",
   "author": "max house",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.3",
     "@types/react-router-dom": "^5.3.3",
