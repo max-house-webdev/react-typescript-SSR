@@ -1,0 +1,24 @@
+@import '../../../assets/scss/base/colors.scss';
+
+.main {
+  overflow: hidden;
+}
+
+@media all and (min-width: 1024px) {
+  .main {
+    background-color: $white;
+    border-radius: 7px 7px 0 0;
+  }
+}
+
+.image {
+  width: 2rem;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 100%;
+}
+
+.p {
+  text-align: center;
+  font-size: 2rem;
+}
